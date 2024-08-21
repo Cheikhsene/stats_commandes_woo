@@ -43,7 +43,7 @@ Ce projet est une application web PHP qui affiche des statistiques détaillées 
 
 ## 🖼️ Capture d'écran
 
-![Interface des statistiques WooCommerce](https://drive.google.com/file/d/13Ko5Sw6bfzFpckbNH0aV_2ZGDhMNkCm3/view?usp=sharing)
+![Interface des statistiques WooCommerce](demo.png)
 
 ## 🤝 Contribution
 
